@@ -1,0 +1,5 @@
+##  Launch container
+- docke-compose up -d
+## Verify that the Nginx container is running
+- docker ps
+
